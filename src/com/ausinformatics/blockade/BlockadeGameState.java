@@ -8,7 +8,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 
-import core.interfaces.PersistentPlayer;
+import com.ausinformatics.phais.core.interfaces.PersistentPlayer;
 
 public class BlockadeGameState {
 	private static final int CLEAR = -1;

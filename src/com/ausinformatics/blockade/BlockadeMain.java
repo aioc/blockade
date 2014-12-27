@@ -1,7 +1,7 @@
 package com.ausinformatics.blockade;
 
-import core.Config;
-import core.Director;
+import com.ausinformatics.phais.core.Config;
+import com.ausinformatics.phais.core.Director;
 
 public class BlockadeMain {
 	public static void main (String[] args) {

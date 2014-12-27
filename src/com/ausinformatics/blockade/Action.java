@@ -1,7 +1,7 @@
 package com.ausinformatics.blockade;
 
-import core.server.ClientConnection;
-import core.server.DisconnectedException;
+import com.ausinformatics.phais.core.server.ClientConnection;
+import com.ausinformatics.phais.core.server.DisconnectedException;
 
 /*
  * Protocol bits: 	ACTION (BLOCK int int|MOVE int) (Client -> Server)
